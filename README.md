@@ -1,2 +1,2 @@
 # UTC_RID
-Hackathon
+Hackathon project to monitor Bandwidth usage in the city
